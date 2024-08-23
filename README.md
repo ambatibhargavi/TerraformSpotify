@@ -1,1 +1,3 @@
 # TerraformSpotify
+
+I created a Spotify playlist automation project using Terraform, leveraging Infrastructure as Code (IaC) to manage and automate the playlist creation process. The project involved writing Terraform scripts to interact with the Spotify API, enabling automated creation, modification, and management of playlists. By defining resources and configurations in code, the process of adding tracks and updating playlists became streamlined and reproducible. This project showcases how Terraform can be utilized beyond traditional cloud infrastructure, extending its use case to API-driven services like Spotify.
